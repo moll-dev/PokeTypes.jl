@@ -1,0 +1,7 @@
+name = "PokeTypes"
+uuid = "fcde4975-3257-4033-8207-5526fbcf7f5e"
+authors = ["Thomas Moll <tom@moll.dev>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
